@@ -84,6 +84,19 @@ cargo build --release
 
 ---
 
+## 📝 TODO
+
+A few ideas for improvements and additional features that could be implemented:
+
+- [ ] **Install script**: Implement a script to install getenv.
+- [ ] **Multiline management**: Support for parsing and retrieving multiline values from `.env` files.  
+- [ ] **Cross-platform clipboard handling**: Add better support for Windows 🪟 and Linux 🐧.  
+- [ ] **Improved error handling**: Enhance clipboard-related error management for more robustness.
+
+Feel free to contribute by picking one of these tasks! 🚀
+
+---
+
 ## 📦 Contributions
 
 Contributions are always welcome! 🛠 Feel free to open an **issue** or a **pull request** if you have ideas or improvements.
